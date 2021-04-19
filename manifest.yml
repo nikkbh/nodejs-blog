@@ -1,0 +1,4 @@
+---
+applications:
+ - name: myNodeAppDevops
+   memory: 256M
