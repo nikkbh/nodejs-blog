@@ -1,4 +1,5 @@
 ---
 applications:
  - name: myNodeAppDevops
+   command: node server.js
    memory: 256M
