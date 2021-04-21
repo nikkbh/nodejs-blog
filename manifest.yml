@@ -1,7 +1,0 @@
----
-applications:
- - name: myNodeAppDevops
-   command: node server.js
-   buildpack: sdk-for-nodejs
-   memory: 256M
-   instances: 1
