@@ -1,1 +1,1 @@
-# A blog site written in Node.js with database hosted on MongoDB Atlas.
+# A blog site written in Node.js hosted on Azure and database hosted on MongoDB Atlas.
