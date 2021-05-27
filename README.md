@@ -1,4 +1,4 @@
-# A blog site written in Node.js with database hosted on MongoDB Atlas.
+# A blog site made with MERN stack.
 
 ## About Project
 The project is a minimalistic Blog Site developed in MERN Stack. The backend is developed in Node.js, while front-end is written in EJS. The MVC architecture is implemented and MogoDB Atlas is used as a databse service, which offers database over cloud.
@@ -10,7 +10,7 @@ The project is a minimalistic Blog Site developed in MERN Stack. The backend is 
 4. MongoDB Atlas
 
 
-##Final Project
+## Final Project
 
 ![image](https://user-images.githubusercontent.com/48957165/119794160-eba9bf00-bef4-11eb-9cb1-0eceb894786f.png)
 
