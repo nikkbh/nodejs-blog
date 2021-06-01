@@ -1,7 +1,7 @@
-# A blog site made with MERN stack.
+# A blog site developed using Node.js.
 
 ## About Project
-The project is a minimalistic Blog Site developed in MERN Stack. The backend is developed in Node.js, while front-end is written in EJS. The MVC architecture is implemented and MogoDB Atlas is used as a databse service, which offers database over cloud.
+The project is a minimalistic Blog Site developed in Node.js. The backend is developed in Node.js, while front-end is written in EJS. The MVC architecture is implemented using Express.js and MogoDB Atlas is used as a databse service, which offers database over cloud.
 
 ##Technologies used:
 1. Node.js
